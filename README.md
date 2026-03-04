@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
