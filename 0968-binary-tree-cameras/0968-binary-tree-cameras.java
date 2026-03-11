@@ -19,7 +19,7 @@ class Solution {
         camera = 0;
         if(helper(root) == 0){
             camera++;
-            return camera;
+            // return camera;
         }
         return camera;
     }
