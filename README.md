@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Array
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,5 +167,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 <!---LeetCode Topics End-->
