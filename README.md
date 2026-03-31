@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
