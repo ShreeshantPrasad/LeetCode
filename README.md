@@ -197,5 +197,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0620-not-boring-movies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
