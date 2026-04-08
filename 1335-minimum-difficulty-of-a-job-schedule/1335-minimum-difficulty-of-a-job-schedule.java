@@ -3,7 +3,7 @@ class Solution {
     public int minDifficulty(int[] jd, int d) {
         if(jd.length < d) return -1;
         int n = jd.length;
-        dp = new Integer[1001][11];
+        dp = new Integer[301][11];
 
         return helper(jd, 0, d);
     }
