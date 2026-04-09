@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -211,4 +213,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0620-not-boring-movies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
