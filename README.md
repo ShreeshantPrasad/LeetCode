@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0057-insert-interval](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0137-single-number-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0137-single-number-ii/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
