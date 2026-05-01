@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
