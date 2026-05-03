@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0072-edit-distance](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -315,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
