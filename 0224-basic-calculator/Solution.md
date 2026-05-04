@@ -106,7 +106,91 @@ res += num * sign;
 
 ## 💻 Code  
 
-```java id="j6r9xp"
+```python []
+class Solution:
+    def calculate(self, s: str) -> int:
+        stack = []
+        num = 0
+        res = 0
+        sign = 1
+
+        for ch in s:
+            if ch.isdigit():
+                num = num * 10 + int(ch)
+
+            elif ch == '+':
+                res += num * sign
+                num = 0
+                sign = 1
+
+            elif ch == '-':
+                res += num * sign
+                num = 0
+                sign = -1
+
+            elif ch == '(':
+                stack.append(res)
+                stack.append(sign)
+                res = 0
+                sign = 1
+
+            elif ch == ')':
+                res += num * sign
+                num = 0
+
+                st_sign = stack.pop()
+                st_res = stack.pop()
+
+                res = res * st_sign + st_res
+
+        res += num * sign
+        return res
+```
+```C++ []
+class Solution {
+public:
+    int calculate(string s) {
+        stack<int> st;
+        int num = 0, res = 0, sign = 1;
+
+        for(char ch : s){
+            if(isdigit(ch)){
+                num = num * 10 + (ch - '0');
+            }
+            else if(ch == '+'){
+                res += num * sign;
+                num = 0;
+                sign = 1;
+            }
+            else if(ch == '-'){
+                res += num * sign;
+                num = 0;
+                sign = -1;
+            }
+            else if(ch == '('){
+                st.push(res);
+                st.push(sign);
+                res = 0;
+                sign = 1;
+            }
+            else if(ch == ')'){
+                res += num * sign;
+                num = 0;
+
+                int st_sign = st.top(); st.pop();
+                int st_res = st.top(); st.pop();
+
+                res = res * st_sign + st_res;
+            }
+        }
+
+        res += num * sign;
+        return res;
+    }
+};
+```
+
+```java []
 class Solution {
     public int calculate(String s) {
         int n = s.length();
@@ -154,49 +238,7 @@ class Solution {
     }
 }
 ```
-```C++
-class Solution {
-public:
-    int calculate(string s) {
-        stack<int> st;
-        int num = 0, res = 0, sign = 1;
 
-        for(char ch : s){
-            if(isdigit(ch)){
-                num = num * 10 + (ch - '0');
-            }
-            else if(ch == '+'){
-                res += num * sign;
-                num = 0;
-                sign = 1;
-            }
-            else if(ch == '-'){
-                res += num * sign;
-                num = 0;
-                sign = -1;
-            }
-            else if(ch == '('){
-                st.push(res);
-                st.push(sign);
-                res = 0;
-                sign = 1;
-            }
-            else if(ch == ')'){
-                res += num * sign;
-                num = 0;
-
-                int st_sign = st.top(); st.pop();
-                int st_res = st.top(); st.pop();
-
-                res = res * st_sign + st_res;
-            }
-        }
-
-        res += num * sign;
-        return res;
-    }
-};
-```
 
 ---
 
