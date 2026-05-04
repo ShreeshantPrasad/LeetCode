@@ -105,7 +105,54 @@ res += num * sign;
 ---
 
 ## 💻 Code  
+```java []
+class Solution {
+    public int calculate(String s) {
+        int n = s.length();
+        Stack<Integer> st = new Stack<>();
 
+        int num = 0;
+        int res = 0;
+        int sign = 1;
+
+        for(int i = 0; i < n; i++){
+            if(Character.isDigit(s.charAt(i))){
+                num = num * 10 + (s.charAt(i) - '0');
+            }
+            else if(s.charAt(i) == '+'){
+                res += num * sign;
+                num = 0;
+                sign = 1;
+            }
+            else if(s.charAt(i) == '-'){
+                res += num * sign;
+                num = 0;
+                sign = -1;
+            }
+            else if(s.charAt(i) == '('){
+                st.push(res);
+                st.push(sign);
+                res = 0;
+                num = 0;
+                sign = 1;
+            }
+            else if(s.charAt(i) == ')'){
+                res += num * sign;
+                num = 0;
+
+                int st_sign = st.pop();
+                int st_res = st.pop();
+
+                res *= st_sign;
+                res += st_res;
+            }
+        }
+
+        res += num * sign;
+        return res;
+    }
+}
+```
 ```python []
 class Solution:
     def calculate(self, s: str) -> int:
@@ -189,55 +236,55 @@ public:
     }
 };
 ```
+``` C []
+#include <stdio.h>
+#include <ctype.h>
 
-```java []
-class Solution {
-    public int calculate(String s) {
-        int n = s.length();
-        Stack<Integer> st = new Stack<>();
+int calculate(char* s) {
+    int stack[10000];
+    int top = -1;
 
-        int num = 0;
-        int res = 0;
-        int sign = 1;
+    int num = 0, res = 0, sign = 1;
 
-        for(int i = 0; i < n; i++){
-            if(Character.isDigit(s.charAt(i))){
-                num = num * 10 + (s.charAt(i) - '0');
-            }
-            else if(s.charAt(i) == '+'){
-                res += num * sign;
-                num = 0;
-                sign = 1;
-            }
-            else if(s.charAt(i) == '-'){
-                res += num * sign;
-                num = 0;
-                sign = -1;
-            }
-            else if(s.charAt(i) == '('){
-                st.push(res);
-                st.push(sign);
-                res = 0;
-                num = 0;
-                sign = 1;
-            }
-            else if(s.charAt(i) == ')'){
-                res += num * sign;
-                num = 0;
+    for(int i = 0; s[i] != '\0'; i++){
+        char ch = s[i];
 
-                int st_sign = st.pop();
-                int st_res = st.pop();
-
-                res *= st_sign;
-                res += st_res;
-            }
+        if(isdigit(ch)){
+            num = num * 10 + (ch - '0');
         }
+        else if(ch == '+'){
+            res += num * sign;
+            num = 0;
+            sign = 1;
+        }
+        else if(ch == '-'){
+            res += num * sign;
+            num = 0;
+            sign = -1;
+        }
+        else if(ch == '('){
+            stack[++top] = res;
+            stack[++top] = sign;
+            res = 0;
+            sign = 1;
+        }
+        else if(ch == ')'){
+            res += num * sign;
+            num = 0;
 
-        res += num * sign;
-        return res;
+            int st_sign = stack[top--];
+            int st_res = stack[top--];
+
+            res = res * st_sign + st_res;
+        }
     }
+
+    res += num * sign;
+    return res;
 }
 ```
+
+
 
 
 ---
