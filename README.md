@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
