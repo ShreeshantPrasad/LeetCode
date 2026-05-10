@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2615-sum-of-distances](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
