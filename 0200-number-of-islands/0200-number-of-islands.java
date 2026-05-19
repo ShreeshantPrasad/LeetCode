@@ -1,31 +1,32 @@
 class Solution {
-    static int [] dc = {-1,1,0,0};
-    static int [] dr = {0,0,-1,1};
-    static int col;
-    static int row;
+    int [] dr = {1,-1,0,0};
+    int [] dc = {0,0,1,-1};
+    int n;
+    int m;
+
     public int numIslands(char[][] grid) {
-        row = grid.length;
-        col = grid[0].length;
-        boolean[][] visited = new boolean[row][col];
-        int components = 0;
-        for(int i=0; i<row; i++){
-            for(int j=0; j<col; j++){
-                if(!visited[i][j] && grid[i][j] == '1'){
-                    dfs(i,j,visited,grid);
-                    components++;
+        n = grid.length;
+        m = grid[0].length;
+        int ans = 0;
+        boolean [][] vis = new boolean[n][m];
+
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < m; j++){
+                if(grid[i][j]=='1' && !vis[i][j]){
+                    dfs(i,j,vis,grid);
+                    ans++;
                 }
             }
         }
-        return components;
+        return ans;
     }
-    private void dfs(int r, int c, boolean[][] visited, char[][] grid){
-        if(r<0 || c<0 || r>=row || c>= col || grid[r][c] == '0'){
+    private void dfs(int r, int c, boolean [][] vis, char [][] grid){
+        if(r < 0 || c < 0 || r >= n || c >= m || vis[r][c] || grid[r][c] == '0'){
             return;
-        } 
-        if(visited[r][c]) return;
-        visited[r][c] = true;
-        for(int i=0;i<4;i++){
-            dfs(r+dr[i], c+dc[i], visited, grid);
+        }
+        vis[r][c] = true;
+        for(int i = 0; i < 4; i++){
+            dfs(r+dr[i], c+dc[i], vis, grid);
         }
     }
 }
