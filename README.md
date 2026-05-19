@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -360,4 +364,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
