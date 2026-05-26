@@ -1,16 +1,16 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        boolean [] vis = new boolean[26];
+        HashSet<Character> set = new HashSet<>();
         for(char ch : word.toCharArray()){
             if(ch >= 'a' && ch <= 'z'){
-                vis[ch - 'a'] = true;
+                set.add((char) (ch-32));
             }
         }
         int cnt = 0;
         for(char ch : word.toCharArray()){
             if(ch >= 'A' && ch <= 'Z'){
-                if(vis[ch - 'A']){
-                    vis[ch - 'A'] = false;
+                if(set.contains(ch)){
+                    set.remove(ch);
                     cnt++;
                 }
             }
