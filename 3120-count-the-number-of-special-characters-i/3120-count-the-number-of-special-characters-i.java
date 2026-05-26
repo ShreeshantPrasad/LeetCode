@@ -3,7 +3,7 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
         for(char ch : word.toCharArray()){
             if(ch >= 'a' && ch <= 'z'){
-                set.add((char) (ch-32));
+                set.add(Character.toUpperCase(ch));
             }
         }
         int cnt = 0;
