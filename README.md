@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search Tree
