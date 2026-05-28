@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -392,4 +394,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
