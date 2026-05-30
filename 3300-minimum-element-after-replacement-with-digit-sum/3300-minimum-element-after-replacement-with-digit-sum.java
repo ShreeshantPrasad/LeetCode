@@ -1,17 +1,18 @@
 class Solution {
     public int minElement(int[] nums) {
-        int ans = 10001;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] > 9){
-                nums[i] = sum(nums[i]);
+        int minVal = Integer.MAX_VALUE;
+        
+        for (int num : nums) {
+            int currentSum = 0;
+            
+            while (num > 0) {
+                currentSum += num % 10;
+                num /= 10;
             }
-            ans = Math.min(ans,nums[i]);
+            
+            minVal = Math.min(minVal, currentSum);
         }
-        return ans;
-    }
-    private int sum(int n){
-        if(n <= 0) return 0;
-        int ans = n%10 + sum(n/10);
-        return ans;
+        
+        return minVal;
     }
 }
