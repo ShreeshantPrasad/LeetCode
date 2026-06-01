@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2615-sum-of-distances](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
