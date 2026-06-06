@@ -1,78 +1,41 @@
 class Solution {
-    String s;
-    int n;
-    long[][] dpTotalNumbers  = new long[16][10 * 10];
-    long[][] dpTotalWaviness = new long[16][10 * 10];
-    boolean[][] visited      = new boolean[16][10 * 10];
+    private String s;
+    private Map<String, long[]> mp = new HashMap<>();
 
-    private long[] solve(int curr, int prevPrev, int prev, boolean isLimited, boolean isLeadingZero) {
-        if (curr == n) {
-            return new long[]{1, 0};
+    private long[] dfs(int i, int a, int b, int t, int st, int len) {
+        if (i == s.length()) return new long[]{1, 0};
+
+        String key = i + "," + a + "," + b + "," + t + "," + st + "," + len;
+        if (mp.containsKey(key)) return mp.get(key);
+
+        long cnt = 0, wav = 0;
+
+        int limit = t == 1 ? (s.charAt(i) - '0') : 9;
+        for (int d = 0; d <= limit; d++) {
+            long[] res = dfs(i + 1, b, d,
+                t == 1 && d == (s.charAt(i) - '0') ? 1 : 0,
+                (st == 1 || d > 0) ? 1 : 0,
+                (st == 1 || d > 0) ? len + 1 : 0);
+
+            long c = res[0], w = res[1];
+            if (len > 1 && ((a < b && b > d) || (a > b && b < d))) w += c;
+
+            cnt += c;
+            wav += w;
         }
 
-        int key = (prevPrev < 0 ? 0 : prevPrev) * 10 + (prev < 0 ? 0 : prev);
-
-        if (!isLimited && !isLeadingZero && prevPrev >= 0 && prev >= 0) {
-            if (visited[curr][key]) {
-                return new long[]{dpTotalNumbers[curr][key], dpTotalWaviness[curr][key]};
-            }
-        }
-
-        long totalNumbers   = 0;
-        long totalWaveScore = 0;
-        int  limitDigit     = isLimited ? (s.charAt(curr) - '0') : 9;
-
-        for (int digit = 0; digit <= limitDigit; digit++) {
-            boolean newIsLeadingZero = isLeadingZero && (digit == 0);
-            int newPrevPrev = prev;
-            int newPrev     = newIsLeadingZero ? -1 : digit;
-
-            long[] result = solve(
-                curr + 1, newPrevPrev, newPrev,
-                isLimited && (digit == limitDigit),
-                newIsLeadingZero
-            );
-
-            long remNumbers   = result[0];
-            long remWaveScore = result[1];
-
-            if (!newIsLeadingZero && prevPrev >= 0 && prev >= 0) {
-                boolean isPeak   = (prevPrev < prev && prev > digit);
-                boolean isValley = (prevPrev > prev && prev < digit);
-
-                if (isPeak || isValley) {
-                    totalWaveScore += remNumbers;
-                }
-            }
-
-            totalNumbers   += remNumbers;
-            totalWaveScore += remWaveScore;
-        }
-
-        if (!isLimited && !isLeadingZero && prevPrev >= 0 && prev >= 0) {
-            dpTotalNumbers[curr][key]  = totalNumbers;
-            dpTotalWaviness[curr][key] = totalWaveScore;
-            visited[curr][key]         = true;
-        }
-
-        return new long[]{totalNumbers, totalWaveScore};
+        long[] ans = {cnt, wav};
+        mp.put(key, ans);
+        return ans;
     }
 
-    private long func(long num) {
-        if (num < 100) return 0;
-
-        dpTotalNumbers  = new long[16][100];
-        dpTotalWaviness = new long[16][100];
-        visited         = new boolean[16][100];
-
-        s = Long.toString(num);
-        n = s.length();
-
-        long[] result = solve(0, -1, -1, true, true);
-        return result[1];
+    private long solve(long n) {
+        s = Long.toString(n);
+        mp.clear();
+        return dfs(0, 0, 0, 1, 0, 0)[1];
     }
 
-    public long totalWaviness(long num1, long num2) {
-        return func(num2) - func(num1 - 1);
+    public long totalWaviness(long l, long r) {
+        return solve(r) - solve(l - 1);
     }
 }
