@@ -1,15 +1,18 @@
 class Solution {
-    public int rob(int[] nums) {
-        int n = nums.length;
-        Integer [] dp = new Integer[n];
-        return help(n-1,nums,dp);
+    Integer[] dp;
+    public int rob(int[] arr) {
+        dp=new Integer[arr.length+1];
+        return solve(arr,0);
     }
-    private int help(int idx, int [] nums, Integer [] dp){
-        if(idx == 0) return nums[idx];
-        if(idx < 0 ) return 0;
-        if(dp[idx] != null) return dp[idx];
-        int pick = nums[idx] + help(idx-2,nums,dp);
-        int notpick = help(idx-1,nums,dp);
-        return dp[idx] = Math.max(pick,notpick);
+    private int solve(int [] arr, int i){
+        if(i >= arr.length) return 0;
+        if(dp[i]!=null) return dp[i];
+
+        int rob = arr[i] + solve(arr,i+2);
+        int notRob=solve(arr,i+1);
+
+        return dp[i]=Math.max(rob,notRob);
+
+
     }
 }
