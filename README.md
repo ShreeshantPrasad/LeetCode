@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
