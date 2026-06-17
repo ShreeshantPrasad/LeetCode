@@ -25,22 +25,19 @@ class Solution {
         for (int i = n - 1; i >= 0; i--) {
             char ch = s.charAt(i);
             if (ch == '*') {
-                L++; // no change in k
+                L++; 
             } else if (ch == '%') {
-                // no change in L
                 k = L - k - 1;
             } else if (ch == '#') {
                 L = L / 2;
                 k = (k >= L) ? k - L : k;
-            } else { // 'a' to 'z'
+            } else { 
                 L--;
             }
-
             if (k == L) {
                 return ch;
             }
         }
-
         return '.';
     }
 }
