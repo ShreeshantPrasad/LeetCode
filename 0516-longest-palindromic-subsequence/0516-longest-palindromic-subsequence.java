@@ -1,24 +1,20 @@
 class Solution {
-    public int longestCommonSubsequence(String text1, String text2) {
-        int n = text1.length();
-        int m = text2.length();
-        Integer [][] dp = new Integer[n+1][m+1]; 
-        for(int i=0;i <=n;i++) dp[i][0] = 0;
-        for(int j=0;j <=m;j++) dp[0][j] = 0;
-        for(int i=1;i <=n;i++){
-            for(int j=1; j<= m; j++){
-                if(text1.charAt(i-1) == text2.charAt(j-1)){
-                    dp[i][j] = 1 + dp[i-1][j-1];
-                }
-                else dp[i][j] = Math.max(dp[i-1][j],dp[i][j-1]);
-                
-            }
-        } 
-        return dp[n][m];
-    }
+    Integer [][] dp;
     public int longestPalindromeSubseq(String s) {
-        StringBuilder rev = new StringBuilder(s);
-        rev = rev.reverse();
-        return longestCommonSubsequence(s,rev.toString());
+        String s1 = new StringBuilder(s).reverse().toString();
+        dp= new Integer [s.length()][s.length()];
+        return helper(s, s1, 0, 0);
     }
+
+    public int helper(String s, String s1, int i, int j){
+        if(i>s.length()-1 || j>s1.length()-1) return 0;
+        if(dp[i][j]!=null) return dp[i][j];
+        if(s.charAt(i)==s1.charAt(j)){
+            return dp[i][j]=1+ helper(s, s1, i+1, j+1);
+        }
+        else{
+            return dp[i][j]=Math.max(helper(s, s1, i+1, j), helper(s, s1, i, j+1));
+        }
+    }
+
 }
