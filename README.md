@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
