@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sorting
@@ -358,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -458,4 +461,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0062-unique-paths/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
