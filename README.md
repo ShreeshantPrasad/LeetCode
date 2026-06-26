@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Hash Table
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
