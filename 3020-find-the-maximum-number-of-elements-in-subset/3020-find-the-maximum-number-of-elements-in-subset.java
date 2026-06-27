@@ -1,40 +1,39 @@
 class Solution {
     public int maximumLength(int[] nums) {
+        HashMap<Long, Integer> freq = new HashMap<>();
+
+        for (int x : nums) {
+            freq.put((long) x, freq.getOrDefault((long) x, 0) + 1);
+        }
+
         int ans = 1;
-        int max = 0;
-        Map<Integer, Integer> map = new HashMap<>();
 
-        for (int num : nums) {
-            map.merge(num, 1, Integer::sum);
-            max = Math.max(max, num);
+        if (freq.containsKey(1L)) {
+            int cnt = freq.get(1L);
+
+            ans = Math.max(ans, (cnt % 2 == 1) ? cnt : cnt - 1);
         }
 
-        if (map.containsKey(1)) {
-            ans = map.get(1);
-            if (ans % 2 == 0)
-                ans--;
-            map.remove(1);
-        }
+        for (long start : freq.keySet()) {
+            if (start == 1L) continue;
 
-        outer: for (Integer num : map.keySet()) {
-            int freq = map.get(num);
+            long cur = start;
+            int len = 0;
 
-            if (freq <= 1)
-                continue;
+            while (freq.containsKey(cur)) {
+                if (freq.get(cur) >= 2) {
+                    len += 2;
 
-            int count = 2;
-            while (num <= max) {
-                num *= num;
-                freq = Math.min(freq, map.getOrDefault(num, 0));
-
-                if (freq >= 1)
-                    count += 2;
-
-                ans = Math.max(ans, count - 1);
-
-                if (freq <= 1)
-                    continue outer;
+                    cur = cur * cur;
+                } else {
+                    len++;
+                    break;
+                }
             }
+
+            if ((len & 1) == 0) len--;
+
+            ans = Math.max(ans, len);
         }
 
         return ans;
