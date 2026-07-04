@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1306-jump-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 ## Graph Theory
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [1306-jump-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -314,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
