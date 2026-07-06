@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -544,4 +545,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
