@@ -1,7 +1,7 @@
 class Solution {
     public int removeCoveredIntervals(int[][] intervals) {
-        List<int[]> res = new ArrayList<>();
         int n = intervals.length;
+        int lastIntervalIdx = -1;
 
         Arrays.sort(intervals, (a,b) -> {
             if(a[0] == b[0]){
@@ -9,14 +9,16 @@ class Solution {
             }
             return Integer.compare(a[0],b[0]);
         });
-        res.add(intervals[0]);
+        lastIntervalIdx = intervals[0][1];
+        int count = 1;
         for(int i = 1; i < n; i++){
-            if(res.get(res.size() - 1)[1] >= intervals[i][1]){
+            if(lastIntervalIdx >= intervals[i][1]){
                 continue;
             }
-            res.add(intervals[i]);
+            lastIntervalIdx = intervals[i][1];
+            count++;
         }
-        return res.size();
+        return count;
 
     }
 }
