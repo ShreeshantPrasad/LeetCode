@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1301-number-of-paths-with-max-score](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1306-jump-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Divide and Conquer
