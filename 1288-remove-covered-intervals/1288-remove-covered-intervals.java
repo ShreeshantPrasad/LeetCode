@@ -11,7 +11,7 @@ class Solution {
         });
         res.add(intervals[0]);
         for(int i = 1; i < n; i++){
-            if(res.get(res.size() - 1)[0] <= intervals[i][0] && res.get(res.size() - 1)[1] >= intervals[i][1]){
+            if(res.get(res.size() - 1)[1] >= intervals[i][1]){
                 continue;
             }
             res.add(intervals[i]);
