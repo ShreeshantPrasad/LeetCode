@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -522,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
