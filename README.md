@@ -280,11 +280,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
