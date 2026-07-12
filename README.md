@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
