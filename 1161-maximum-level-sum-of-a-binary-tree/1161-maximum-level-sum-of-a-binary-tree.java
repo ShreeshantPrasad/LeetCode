@@ -23,18 +23,17 @@ class Solution {
         while(!q.isEmpty()){
             int n = q.size();
             int sum = 0;
-            //Traversal
-            while(n-- >0){
+            while(n-- > 0){
                 TreeNode temp = q.poll();
                 sum += temp.val;
                 if(temp.left != null) q.offer(temp.left);
                 if(temp.right != null) q.offer(temp.right);
             }
-            if(sum>max){
+            if(sum > max ){
                 max = sum;
                 resLev = currLev;
             }
-            currLev++; 
+            currLev++;
         }
         return resLev;
     }
