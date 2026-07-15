@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
