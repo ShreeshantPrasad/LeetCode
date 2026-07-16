@@ -1,48 +1,35 @@
 class Solution {
-    int[] parent;
-    int [] rank;
-    public int find(int x, int[] parent){
-        if(x==parent[x]){
-            return x;
-        }
-        return parent[x] = find(parent[x],parent);
-    }
+    boolean [] vis;
     public int findCircleNum(int[][] isConnected) {
-        parent = new int[isConnected.length];
-        rank = new int[isConnected.length];
-        int [][] edges = new int[isConnected.length][2];
-        for(int i = 0; i < isConnected.length; i++){
-           for(int j = 0; j < isConnected.length; j++){
-                if(isConnected[i][j] == 1 && isConnected[j][i] == 1){
-                    edges[i][0] = i;
-                    edges[i][1] = j;
+        int n = isConnected.length;
+        Map<Integer, List<Integer>> adj = new HashMap<>();
+        for(int i = 0; i < n; i++){
+            adj.put(i,new ArrayList<>());
+        }
+        for(int i = 0; i < n; i++ ){
+            for(int j = 0; j < n; j++){
+                if(isConnected[i][j] == 1){
+                    adj.get(i).add(j);
+                    adj.get(j).add(i);
                 }
             }
-        }
-        for(int i = 0; i < isConnected.length; i++){
-            parent[i] = i;
-        }
-        Arrays.fill(rank,0);
-        int comp = isConnected.length;
-        for(int k = 0; k < isConnected.length; k++){
-            int p_x = find(edges[k][0],parent);
-            int p_y = find(edges[k][1],parent);
-            if(p_x == p_y) return comp;
-            if(rank[p_x] > rank[p_y]){
-                parent[p_y] = p_x;
-                comp--;
+        } 
+        vis = new boolean[n];
+        int cnt = 0;
+        for(int i = 0; i < n; i++){
+            if(!vis[i]){
+                cnt++;
+                dfs(adj,i);
             }
-            else if(rank[p_x] < rank[p_y]){
-                parent[p_x] = p_y;
-                comp--;
+        }  
+        return cnt;
+    }
+    private void dfs(Map<Integer, List<Integer>> adj, int u){
+        vis[u] = true;
+        for(int v : adj.get(u)){
+            if(!vis[v]){
+                dfs(adj,v);
             }
-            else{
-                parent[p_x] = p_y;
-                rank[p_y]++;
-                comp--;
-            }
-        
         }
-        return comp;
-    }    
+    }
 }
