@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -487,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0796-rotate-string/) | Easy |
@@ -574,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -600,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
