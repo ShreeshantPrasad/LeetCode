@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Array
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0901-online-stock-span](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0901-online-stock-span/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -499,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
