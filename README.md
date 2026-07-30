@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -487,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3110-score-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
