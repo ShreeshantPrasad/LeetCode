@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -680,4 +683,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
