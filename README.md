@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -684,4 +687,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
