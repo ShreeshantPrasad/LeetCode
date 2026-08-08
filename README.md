@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
