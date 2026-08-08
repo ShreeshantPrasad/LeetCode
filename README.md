@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -507,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -683,11 +686,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Quickselect
