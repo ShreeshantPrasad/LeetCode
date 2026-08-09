@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0137-single-number-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0137-single-number-ii/) | Medium |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
