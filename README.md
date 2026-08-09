@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0994-rotting-oranges](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1260-shift-2d-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0788-rotated-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -587,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -704,13 +708,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
