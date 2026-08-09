@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -720,4 +723,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
