@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0046-permutations](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
