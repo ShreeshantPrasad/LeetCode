@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -555,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
