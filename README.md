@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -746,18 +750,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -770,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
