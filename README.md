@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
