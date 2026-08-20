@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0338-counting-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -536,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
