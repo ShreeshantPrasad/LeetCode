@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
