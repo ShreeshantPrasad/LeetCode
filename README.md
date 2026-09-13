@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0835-image-overlap](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0879-profitable-schemes/) | Hard |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0835-image-overlap](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
