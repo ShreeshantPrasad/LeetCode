@@ -319,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0576-out-of-boundary-paths](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [0790-domino-and-tromino-tiling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -546,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -781,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
