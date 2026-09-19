@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1227-airplane-seat-assignment-probability](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
