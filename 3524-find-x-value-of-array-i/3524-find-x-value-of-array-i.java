@@ -7,24 +7,24 @@ class Solution {
         for (int i = 0; i < n; i++)
             nums[i] %= k;
         for (int r = 0; r < k; r++) {
-            long[][] dp = new long[n][k + 1];
-            for (long[] row : dp) Arrays.fill(row, -1);
+            Long[][] dp = new Long[n][k + 1];
             res[r] = solve(0, k, r, k, nums, dp);
         }
         return res;
     }
 
-    long solve(int i, int prevProd, int req, int k, int[] nums, long[][] dp) {
-
+    long solve(int i, int prevProd, int req, int k, int[] nums, Long[][] dp) {
         if (i >= nums.length) return 0;
-        if (dp[i][prevProd] != -1) return dp[i][prevProd];
+        if (dp[i][prevProd] != null) return dp[i][prevProd];
 
         long skip = 0, take = 0;
         if (prevProd == k) {
             skip = solve(i + 1, k, req, k, nums, dp);
         }
         long curProd;
-        if (prevProd == k) curProd = nums[i];
+        if(prevProd == k){
+            curProd = nums[i];
+        } 
         else{
             curProd = ((long) prevProd * nums[i]) % k;
         }
