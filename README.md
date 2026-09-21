@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
