@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2121-intervals-between-identical-elements](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2121-intervals-between-identical-elements/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -670,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1927-sum-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
