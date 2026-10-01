@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
