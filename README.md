@@ -310,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -659,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
@@ -829,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
@@ -908,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
