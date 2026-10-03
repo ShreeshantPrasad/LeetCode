@@ -9,7 +9,8 @@ class Solution {
                 st.push(i);
             } else {
                 st.pop();
-                if (st.isEmpty()) st.push(i);
+                if (st.isEmpty())
+                    st.push(i);
                 else
                     res = Math.max(res, i - st.peek());
             }
