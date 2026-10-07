@@ -491,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -671,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0399-evaluate-division](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -838,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0494-target-sum/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
