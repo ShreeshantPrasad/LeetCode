@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0307-range-sum-query-mutable/) | Medium |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1110-delete-nodes-and-return-forest](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0486-predict-the-winner](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
@@ -484,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -652,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
