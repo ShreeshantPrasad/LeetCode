@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0063-unique-paths-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
