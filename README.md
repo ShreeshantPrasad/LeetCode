@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0039-combination-sum/) | Medium |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0014-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
@@ -827,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0139-word-break/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
