@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1861-rotating-the-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0189-rotate-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0224-basic-calculator](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0279-perfect-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0279-perfect-squares/) | Medium |
 | [0396-rotate-function](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0396-rotate-function/) | Medium |
