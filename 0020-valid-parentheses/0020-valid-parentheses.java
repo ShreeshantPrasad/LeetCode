@@ -1,14 +1,35 @@
 class Solution {
     public boolean isValid(String s) {
-        int prevLength=-1;
-        while(s.length()!=prevLength){
-            prevLength=s.length();
-            s=s.replace("()", "")
-               .replace("{}", "")
-               .replace("[]", "");
-
+        Stack<Character> stk = new Stack<>();
+        for(int i = 0; i < s.length(); i++ ){
+            char ch = s.charAt(i);
+            if(ch == '(' || ch == '{' || ch == '['){
+                stk.push(ch);
+            }
+            else{
+                if(!stk.isEmpty()){
+                    char top = stk.peek();
+                    if(matches(top,ch)){
+                        stk.pop();
+                    }
+                    else{
+                        return false;
+                    }
+                }
+                else{
+                    return false;
+                }
+            }
         }
-        return s.length()==0;
-        
+        return stk.isEmpty();  
+    }
+
+    private boolean matches(char top,char ch){
+        if(ch==')' && top=='(' ||
+        ch=='}' && top=='{' ||
+        ch==']' && top=='['){
+            return true;
+        }
+        return false;
     }
 }
