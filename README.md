@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -587,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -597,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3161-block-placement-queries](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -611,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -770,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
