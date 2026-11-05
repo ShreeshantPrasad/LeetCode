@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1861-rotating-the-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -714,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
