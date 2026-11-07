@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1872-stone-game-viii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+| [1882-process-tasks-using-servers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -642,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ShreeshantPrasad/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
