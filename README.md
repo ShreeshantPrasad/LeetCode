@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ShreeshantPrasad/LeetCode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ShreeshantPrasad/LeetCode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
