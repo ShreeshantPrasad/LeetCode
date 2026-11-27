@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3903-smallest-stable-index-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -742,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ShreeshantPrasad/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
